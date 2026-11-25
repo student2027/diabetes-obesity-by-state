@@ -1,0 +1,56 @@
+state,abbr,diabetes_pct,diabetes_low,diabetes_high,diabetes_footnote,obesity_pct,obesity_low,obesity_high,obesity_footnote,is_state_or_dc,included_in_analysis
+Alabama,AL,14.0,12.7,15.3,,39.9,37.8,42.0,,True,True
+Alaska,AK,8.2,7.4,9.2,,35.3,33.4,37.2,,True,True
+Arizona,AZ,9.9,9.2,10.7,,32.6,31.1,34.1,,True,True
+Arkansas,AR,13.1,12.0,14.3,,40.9,39.0,42.8,,True,True
+California,CA,10.6,9.8,11.4,,27.9,26.6,29.2,,True,True
+Colorado,CO,8.0,7.3,8.7,,24.7,23.5,25.9,,True,True
+Connecticut,CT,8.4,7.6,9.3,,29.6,28.0,31.2,,True,True
+Delaware,DE,11.1,9.8,12.6,,36.0,33.6,38.6,,True,True
+District of Columbia,DC,8.2,7.1,9.5,,24.3,22.2,26.6,,True,True
+Florida,FL,10.1,9.1,11.1,,29.8,28.1,31.7,,True,True
+Georgia,GA,11.5,10.7,12.3,,35.3,33.6,37.0,,True,True
+Guam,GU,16.2,13.8,18.9,,33.5,29.8,37.5,,False,False
+Hawaii,HI,9.5,8.7,10.5,,26.8,25.2,28.5,,True,True
+Idaho,ID,8.7,7.9,9.6,,31.1,29.6,32.8,,True,True
+Illinois,IL,10.9,9.9,12.1,,36.0,34.1,37.9,,True,True
+Indiana,IN,11.7,11.1,12.4,,38.4,37.1,39.7,,True,True
+Iowa,IA,9.9,9.2,10.7,,38.4,36.9,39.8,,True,True
+Kansas,KS,10.5,9.7,11.3,,36.7,35.3,38.1,,True,True
+Kentucky,KY,,,,No data available,,,,No data available,True,False
+Louisiana,LA,14.6,13.4,15.8,,40.2,38.3,42.1,,True,True
+Maine,ME,9.0,8.4,9.7,,32.9,31.4,34.5,,True,True
+Maryland,MD,10.9,10.2,11.7,,34.1,32.8,35.4,,True,True
+Massachusetts,MA,8.5,7.8,9.4,,27.4,26.0,28.9,,True,True
+Michigan,MI,10.9,10.1,11.8,,35.6,34.1,37.1,,True,True
+Minnesota,MN,9.3,8.6,10.0,,33.2,32.1,34.4,,True,True
+Mississippi,MS,15.1,13.7,16.6,,41.0,38.9,43.2,,True,True
+Missouri,MO,10.7,9.9,11.7,,35.5,33.8,37.2,,True,True
+Montana,MT,7.9,7.2,8.7,,30.4,28.9,32.0,,True,True
+Nebraska,NE,9.7,9.0,10.3,,37.0,35.8,38.2,,True,True
+Nevada,NV,10.8,8.9,13.0,,31.0,28.0,34.1,,True,True
+New Hampshire,NH,7.9,7.1,8.8,,32.9,30.9,35.0,,True,True
+New Jersey,NJ,9.1,8.4,9.9,,28.7,27.2,30.2,,True,True
+New Mexico,NM,10.8,9.3,12.6,,36.6,33.8,39.5,,True,True
+New York,NY,9.5,8.9,10.1,,28.1,27.0,29.2,,True,True
+North Carolina,NC,11.0,9.8,12.3,,34.0,31.8,36.2,,True,True
+North Dakota,ND,8.9,8.1,9.7,,36.1,34.4,37.9,,True,True
+Ohio,OH,11.5,10.8,12.2,,36.8,35.5,38.2,,True,True
+Oklahoma,OK,11.3,10.5,12.1,,39.4,37.8,40.9,,True,True
+Oregon,OR,9.5,8.7,10.5,,33.5,31.8,35.1,,True,True
+Pennsylvania,PA,,,,No data available,,,,No data available,True,False
+Puerto Rico,PR,16.1,14.8,17.5,,36.7,34.7,38.7,,False,False
+Rhode Island,RI,10.0,9.1,11.0,,32.3,30.4,34.3,,True,True
+South Carolina,SC,12.7,11.9,13.6,,36.2,34.7,37.8,,True,True
+South Dakota,SD,10.7,8.9,12.8,,36.6,33.4,40.0,,True,True
+Tennessee,TN,12.7,11.7,13.8,,38.0,36.2,39.9,,True,True
+Texas,TX,12.1,11.0,13.3,,34.6,32.9,36.4,,True,True
+United States,US,10.7,10.5,10.9,,33.0,32.7,33.3,,False,False
+Utah,UT,8.1,7.5,8.7,,30.9,29.8,32.2,,True,True
+Vermont,VT,7.8,7.0,8.7,,29.5,27.8,31.2,,True,True
+Virgin Islands,VI,12.2,10.3,14.4,,31.5,27.4,35.9,,False,False
+Virginia,VA,10.4,9.5,11.4,,34.5,32.8,36.4,,True,True
+Washington,WA,8.6,8.2,9.0,,30.8,30.0,31.6,,True,True
+West Virginia,WV,15.1,13.9,16.3,,42.2,40.1,44.2,,True,True
+Wisconsin,WI,9.6,9.0,10.2,,35.9,34.5,37.2,,True,True
+Wyoming,WY,9.4,8.5,10.5,,33.6,31.6,35.7,,True,True

@@ -1,0 +1,21 @@
+"measure","rank","state","value_pct"
+"diabetes_pct","top_1","Mississippi",15.1
+"diabetes_pct","top_2","West Virginia",15.1
+"diabetes_pct","top_3","Louisiana",14.6
+"diabetes_pct","top_4","Alabama",14
+"diabetes_pct","top_5","Arkansas",13.1
+"diabetes_pct","bottom_1","Vermont",7.8
+"diabetes_pct","bottom_2","Montana",7.9
+"diabetes_pct","bottom_3","New Hampshire",7.9
+"diabetes_pct","bottom_4","Colorado",8
+"diabetes_pct","bottom_5","Utah",8.1
+"obesity_pct","top_1","West Virginia",42.2
+"obesity_pct","top_2","Mississippi",41
+"obesity_pct","top_3","Arkansas",40.9
+"obesity_pct","top_4","Louisiana",40.2
+"obesity_pct","top_5","Alabama",39.9
+"obesity_pct","bottom_1","District of Columbia",24.3
+"obesity_pct","bottom_2","Colorado",24.7
+"obesity_pct","bottom_3","Hawaii",26.8
+"obesity_pct","bottom_4","Massachusetts",27.4
+"obesity_pct","bottom_5","California",27.9

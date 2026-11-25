@@ -1,0 +1,56 @@
+States + DC included in analysis: n = 49
+States + DC excluded (no data): ['Kentucky', 'Pennsylvania']
+
+DIABETES prevalence (age-adjusted %, adults 18+), 2023
+  mean 10.38  median 10.10  SD 1.87  range 7.8 to 15.1
+OBESITY prevalence (age-adjusted %, adults 18+), 2023
+  mean 33.94  median 34.50  SD 4.28  range 24.3 to 42.2
+
+Top 5 Diabetes prevalence:
+  Mississippi: 15.1%
+  West Virginia: 15.1%
+  Louisiana: 14.6%
+  Alabama: 14.0%
+  Arkansas: 13.1%
+Bottom 5 Diabetes prevalence:
+  Vermont: 7.8%
+  Montana: 7.9%
+  New Hampshire: 7.9%
+  Colorado: 8.0%
+  Utah: 8.1%
+Texas Diabetes: 12.1%
+
+Top 5 Obesity prevalence:
+  West Virginia: 42.2%
+  Mississippi: 41.0%
+  Arkansas: 40.9%
+  Louisiana: 40.2%
+  Alabama: 39.9%
+Bottom 5 Obesity prevalence:
+  District of Columbia: 24.3%
+  Colorado: 24.7%
+  Hawaii: 26.8%
+  Massachusetts: 27.4%
+  California: 27.9%
+Texas Obesity: 34.6%
+
+CORRELATION between obesity and diabetes prevalence across states:
+  Pearson r = 0.753  (95% CI 0.598 to 0.853),  p = 4.443e-10
+
+LINEAR REGRESSION: diabetes prevalence = intercept + slope x obesity prevalence
+  intercept = -0.812
+  slope = 0.330 percentage points of diabetes per 1 percentage point of obesity
+  R-squared = 0.567
+  slope p-value = 4.443e-10
+  slope 95% CI = 0.247 to 0.412
+
+INTERPRETATION (plain English):
+  States with higher obesity prevalence tend to have higher diabetes
+  prevalence, and the association is strong and positive. This is an
+  association between state-level averages, not proof that obesity
+  causes diabetes in individuals, and not proof that changing a
+  state's obesity level would change its diabetes level by the
+  regression slope. Other state differences (age, income, health
+  care, diet, physical activity) could explain part of the pattern.
+
+Wrote output/summary_statistics.csv, output/model_results.csv and output/top_bottom_states.csv
